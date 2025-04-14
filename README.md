@@ -1,4 +1,4 @@
-# Photo Gallery
+# Photo Gallery - Shivank
 
 Cloned from [vercel/next.js/examples/with-cloudinary](https://github.com/vercel/next.js/tree/canary/examples/with-cloudinary)
 
