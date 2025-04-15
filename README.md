@@ -12,3 +12,4 @@ Cloned from [vercel/next.js/examples/with-cloudinary](https://github.com/vercel/
 - [ ] **Asset** / Title card background
 - [ ] `Bridge.tsx`
 - [ ] `Logo.tsx`
+ 
