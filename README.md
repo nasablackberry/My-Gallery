@@ -4,7 +4,7 @@ Cloned from [vercel/next.js/examples/with-cloudinary](https://github.com/vercel/
 
 > This example shows how to create an image gallery site using Next.js, [Cloudinary](https://cloudinary.com), and [Tailwind](https://tailwindcss.com).
 
-## To-do
+## To-do 
 
 - [ ] **Asset** / Site icon
 - [ ] **Asset** / Preview card image (`og-image`)
