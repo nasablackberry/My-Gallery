@@ -6,7 +6,7 @@ Cloned from [vercel/next.js/examples/with-cloudinary](https://github.com/vercel/
 
 ## To-do 
 
-- [ ] **Asset** / Site icon
+- [ ] **Asset** / Site icon 
 - [ ] **Asset** / Preview card image (`og-image`)
 - [ ] **Asset** / Title card icon
 - [ ] **Asset** / Title card background
