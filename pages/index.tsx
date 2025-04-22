@@ -93,15 +93,7 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
         </div>
       </main>
       <footer className="p-6 text-center text-white/80 sm:p-12">
-        Built from{" "}
-        <a
-          href="https://github.com/vercel/next.js/tree/canary/examples/with-cloudinary"
-          target="_blank"
-          className="font-semibold hover:text-white"
-          rel="noreferrer"
-        >
-          vercel/next.js/examples/with-cloudinary
-        </a>
+        Built with Love <3
       </footer>
     </>
   );
